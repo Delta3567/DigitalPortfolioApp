@@ -7,3 +7,12 @@ C:\Users\fedot\source\repos\DigitalPortfolioApp\DigitalPortfolioApp\obj\Debug\Di
 C:\Users\fedot\source\repos\DigitalPortfolioApp\DigitalPortfolioApp\obj\Debug\DigitalPortfolioApp.csproj.CoreCompileInputs.cache
 C:\Users\fedot\source\repos\DigitalPortfolioApp\DigitalPortfolioApp\obj\Debug\DigitalPortfolioApp.exe
 C:\Users\fedot\source\repos\DigitalPortfolioApp\DigitalPortfolioApp\obj\Debug\DigitalPortfolioApp.pdb
+C:\Users\fedot\OneDrive\Desktop\DigitalPortfolioApp\DigitalPortfolioApp\obj\Debug\DigitalPortfolioApp.csproj.AssemblyReference.cache
+C:\Users\fedot\OneDrive\Desktop\DigitalPortfolioApp\DigitalPortfolioApp\obj\Debug\DigitalPortfolioApp.Properties.Resources.resources
+C:\Users\fedot\OneDrive\Desktop\DigitalPortfolioApp\DigitalPortfolioApp\obj\Debug\DigitalPortfolioApp.csproj.GenerateResource.cache
+C:\Users\fedot\OneDrive\Desktop\DigitalPortfolioApp\DigitalPortfolioApp\obj\Debug\DigitalPortfolioApp.csproj.CoreCompileInputs.cache
+C:\Users\fedot\OneDrive\Desktop\DigitalPortfolioApp\DigitalPortfolioApp\bin\Debug\DigitalPortfolioApp.exe.config
+C:\Users\fedot\OneDrive\Desktop\DigitalPortfolioApp\DigitalPortfolioApp\bin\Debug\DigitalPortfolioApp.exe
+C:\Users\fedot\OneDrive\Desktop\DigitalPortfolioApp\DigitalPortfolioApp\bin\Debug\DigitalPortfolioApp.pdb
+C:\Users\fedot\OneDrive\Desktop\DigitalPortfolioApp\DigitalPortfolioApp\obj\Debug\DigitalPortfolioApp.exe
+C:\Users\fedot\OneDrive\Desktop\DigitalPortfolioApp\DigitalPortfolioApp\obj\Debug\DigitalPortfolioApp.pdb

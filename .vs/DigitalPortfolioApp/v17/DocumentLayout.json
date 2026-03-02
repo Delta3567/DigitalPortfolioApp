@@ -1,50 +1,129 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\",
+  "WorkspaceRootPath": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|c:\\users\\fedot\\source\\repos\\digitalportfolioapp\\digitalportfolioapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|c:\\users\\fedot\\onedrive\\desktop\\digitalportfolioapp\\digitalportfolioapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\digitalportfolioapp\\mainformdesigner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\mainformdesigner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\databaseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\digitalportfolioapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\digitalportfolioapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\digitalportfolioapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\digitalportfolioapp\\studentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\studentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\digitalportfolioapp\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\digitalportfolioapp\\studentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\studentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\digitalportfolioapp\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|DigitalPortfolioApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\digitalportfolioapp\\registrationfromdesigner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\registrationfromdesigner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\reportrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\reportrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\digitalportfolioapp\\studentlistfromdesigner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\studentlistfromdesigner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\teacherregisterform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\teacherregisterform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\teacherregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\teacherregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\teacherregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\teacherregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\teachermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\teachermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\adminmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\adminmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\adminmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\studentregisterform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\studentregisterform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\studentregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\studentregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\teachermainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\teachermainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\teachermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\teachermainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\studentmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\studentmainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\studentmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\studentmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\studentmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\studentmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\reportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\reportform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\digital_portfoliodataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\digital_portfoliodataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\courseeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\courseeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\reportform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\courseeditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\courseeditform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\courseeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\courseeditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\digitalportfolioapp\\studentregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{981973F6-4042-4542-B5C2-A10A01FCA779}|DigitalPortfolioApp\\DigitalPortfolioApp.csproj|solutionrelative:digitalportfolioapp\\studentregisterform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -63,47 +142,85 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\DigitalPortfolioApp\\MainForm.cs",
-              "RelativeDocumentMoniker": "DigitalPortfolioApp\\MainForm.cs",
-              "ToolTip": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\DigitalPortfolioApp\\MainForm.cs",
-              "RelativeToolTip": "DigitalPortfolioApp\\MainForm.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAqwA4AAAAJAAAAAAAAAA==",
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\LoginForm.cs",
+              "RelativeToolTip": "DigitalPortfolioApp\\LoginForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T08:21:49.355Z",
+              "WhenOpened": "2026-02-26T09:18:38.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\Program.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\Program.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\Program.cs",
+              "RelativeToolTip": "DigitalPortfolioApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:19:50.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportRow.cs",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\ReportRow.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\ReportRow.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\ReportRow.cs",
+              "RelativeToolTip": "DigitalPortfolioApp\\ReportRow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-27T08:34:11.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\Models.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\Models.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\Models.cs",
+              "RelativeToolTip": "DigitalPortfolioApp\\Models.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:26:52.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\LoginForm.Designer.cs",
+              "RelativeToolTip": "DigitalPortfolioApp\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:18:48.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DatabaseConfig.cs",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\DatabaseConfig.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\DatabaseConfig.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\DatabaseConfig.cs",
+              "RelativeToolTip": "DigitalPortfolioApp\\DatabaseConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:46:07.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\DigitalPortfolioApp\\Program.cs",
-              "RelativeDocumentMoniker": "DigitalPortfolioApp\\Program.cs",
-              "ToolTip": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\DigitalPortfolioApp\\Program.cs",
-              "RelativeToolTip": "DigitalPortfolioApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T08:51:30.291Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StudentListForm.cs",
-              "DocumentMoniker": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\DigitalPortfolioApp\\StudentListForm.cs",
-              "RelativeDocumentMoniker": "DigitalPortfolioApp\\StudentListForm.cs",
-              "ToolTip": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\DigitalPortfolioApp\\StudentListForm.cs",
-              "RelativeToolTip": "DigitalPortfolioApp\\StudentListForm.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwDsAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T08:20:45.505Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\DigitalPortfolioApp\\App.config",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\App.config",
               "RelativeDocumentMoniker": "DigitalPortfolioApp\\App.config",
-              "ToolTip": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\DigitalPortfolioApp\\App.config",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\App.config",
               "RelativeToolTip": "DigitalPortfolioApp\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -111,85 +228,281 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\DigitalPortfolioApp\\MainForm.cs",
-              "RelativeDocumentMoniker": "DigitalPortfolioApp\\MainForm.cs",
-              "ToolTip": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\DigitalPortfolioApp\\MainForm.cs [Design]",
-              "RelativeToolTip": "DigitalPortfolioApp\\MainForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T08:17:55.825Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainFormDesigner.cs",
-              "DocumentMoniker": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\DigitalPortfolioApp\\MainFormDesigner.cs",
-              "RelativeDocumentMoniker": "DigitalPortfolioApp\\MainFormDesigner.cs",
-              "ToolTip": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\DigitalPortfolioApp\\MainFormDesigner.cs",
-              "RelativeToolTip": "DigitalPortfolioApp\\MainFormDesigner.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBoAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T08:18:43.033Z"
+              "DocumentIndex": 7,
+              "Title": "DigitalPortfolioApp",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\DigitalPortfolioApp.csproj",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\DigitalPortfolioApp.csproj",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\DigitalPortfolioApp.csproj",
+              "RelativeToolTip": "DigitalPortfolioApp\\DigitalPortfolioApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-02-27T08:39:37.476Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "RegistrationForm.cs",
-              "DocumentMoniker": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\DigitalPortfolioApp\\RegistrationForm.cs",
-              "RelativeDocumentMoniker": "DigitalPortfolioApp\\RegistrationForm.cs",
-              "ToolTip": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\DigitalPortfolioApp\\RegistrationForm.cs",
-              "RelativeToolTip": "DigitalPortfolioApp\\RegistrationForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\LoginForm.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\LoginForm.cs [Design]",
+              "RelativeToolTip": "DigitalPortfolioApp\\LoginForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T08:19:09.245Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudentListForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\DigitalPortfolioApp\\StudentListForm.cs",
-              "RelativeDocumentMoniker": "DigitalPortfolioApp\\StudentListForm.cs",
-              "ToolTip": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\DigitalPortfolioApp\\StudentListForm.cs [Design]",
-              "RelativeToolTip": "DigitalPortfolioApp\\StudentListForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T08:31:08.793Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "RegistrationForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\DigitalPortfolioApp\\RegistrationForm.cs",
-              "RelativeDocumentMoniker": "DigitalPortfolioApp\\RegistrationForm.cs",
-              "ToolTip": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\DigitalPortfolioApp\\RegistrationForm.cs [Design]",
-              "RelativeToolTip": "DigitalPortfolioApp\\RegistrationForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T08:31:09.82Z"
+              "WhenOpened": "2026-02-27T08:42:39.922Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "RegistrationFromDesigner.cs",
-              "DocumentMoniker": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\DigitalPortfolioApp\\RegistrationFromDesigner.cs",
-              "RelativeDocumentMoniker": "DigitalPortfolioApp\\RegistrationFromDesigner.cs",
-              "ToolTip": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\DigitalPortfolioApp\\RegistrationFromDesigner.cs",
-              "RelativeToolTip": "DigitalPortfolioApp\\RegistrationFromDesigner.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAADwvx0AAAAAAAAAAAAAAA==",
+              "Title": "AdminMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\AdminMainForm.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\AdminMainForm.cs",
+              "RelativeToolTip": "DigitalPortfolioApp\\AdminMainForm.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAqwAABAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T08:20:04.572Z"
+              "WhenOpened": "2026-02-26T09:30:56.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TeacherMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\TeacherMainForm.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\TeacherMainForm.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\TeacherMainForm.cs [Design]",
+              "RelativeToolTip": "DigitalPortfolioApp\\TeacherMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:30:12.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeacherRegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\TeacherRegisterForm.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\TeacherRegisterForm.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\TeacherRegisterForm.cs [Design]",
+              "RelativeToolTip": "DigitalPortfolioApp\\TeacherRegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:33:52.681Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "StudentListFromDesigner.cs",
-              "DocumentMoniker": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\DigitalPortfolioApp\\StudentListFromDesigner.cs",
-              "RelativeDocumentMoniker": "DigitalPortfolioApp\\StudentListFromDesigner.cs",
-              "ToolTip": "C:\\Users\\fedot\\source\\repos\\DigitalPortfolioApp\\DigitalPortfolioApp\\StudentListFromDesigner.cs",
-              "RelativeToolTip": "DigitalPortfolioApp\\StudentListFromDesigner.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Title": "TeacherRegisterForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\TeacherRegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\TeacherRegisterForm.Designer.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\TeacherRegisterForm.Designer.cs",
+              "RelativeToolTip": "DigitalPortfolioApp\\TeacherRegisterForm.Designer.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAUwMkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-25T08:21:09.816Z"
+              "WhenOpened": "2026-02-26T09:34:14.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TeacherRegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\TeacherRegisterForm.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\TeacherRegisterForm.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\TeacherRegisterForm.cs",
+              "RelativeToolTip": "DigitalPortfolioApp\\TeacherRegisterForm.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:34:00.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\AdminMainForm.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\AdminMainForm.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\AdminMainForm.cs [Design]",
+              "RelativeToolTip": "DigitalPortfolioApp\\AdminMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:30:52.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminMainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\AdminMainForm.Designer.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\AdminMainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\AdminMainForm.Designer.cs",
+              "RelativeToolTip": "DigitalPortfolioApp\\AdminMainForm.Designer.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwPEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:31:10.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentRegisterForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\StudentRegisterForm.Designer.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\StudentRegisterForm.Designer.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\StudentRegisterForm.Designer.cs",
+              "RelativeToolTip": "DigitalPortfolioApp\\StudentRegisterForm.Designer.cs",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAUwOcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:33:26.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentRegisterForm.cs",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\StudentRegisterForm.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\StudentRegisterForm.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\StudentRegisterForm.cs",
+              "RelativeToolTip": "DigitalPortfolioApp\\StudentRegisterForm.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAYwEsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:33:21.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TeacherMainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\TeacherMainForm.Designer.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\TeacherMainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\TeacherMainForm.Designer.cs",
+              "RelativeToolTip": "DigitalPortfolioApp\\TeacherMainForm.Designer.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAUwMQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:30:23.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TeacherMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\TeacherMainForm.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\TeacherMainForm.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\TeacherMainForm.cs",
+              "RelativeToolTip": "DigitalPortfolioApp\\TeacherMainForm.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAUwPEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:30:15.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentMainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\StudentMainForm.Designer.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\StudentMainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\StudentMainForm.Designer.cs",
+              "RelativeToolTip": "DigitalPortfolioApp\\StudentMainForm.Designer.cs",
+              "ViewState": "AgIAAO0AAAAAAAAAAAAUwBMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:27:57.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\StudentMainForm.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\StudentMainForm.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\StudentMainForm.cs",
+              "RelativeToolTip": "DigitalPortfolioApp\\StudentMainForm.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwPIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:27:50.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "StudentMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\StudentMainForm.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\StudentMainForm.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\StudentMainForm.cs [Design]",
+              "RelativeToolTip": "DigitalPortfolioApp\\StudentMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:27:45.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ReportForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\ReportForm.Designer.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\ReportForm.Designer.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\ReportForm.Designer.cs",
+              "RelativeToolTip": "DigitalPortfolioApp\\ReportForm.Designer.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAUwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:36:38.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReportForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\ReportForm.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\ReportForm.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\ReportForm.cs [Design]",
+              "RelativeToolTip": "DigitalPortfolioApp\\ReportForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:36:25.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Digital_portfolioDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\Digital_portfolioDataSet.xsd",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\Digital_portfolioDataSet.xsd",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\Digital_portfolioDataSet.xsd",
+              "RelativeToolTip": "DigitalPortfolioApp\\Digital_portfolioDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2026-02-26T09:38:42.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CourseEditForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\CourseEditForm.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\CourseEditForm.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\CourseEditForm.cs [Design]",
+              "RelativeToolTip": "DigitalPortfolioApp\\CourseEditForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:34:42.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReportForm.cs",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\ReportForm.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\ReportForm.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\ReportForm.cs",
+              "RelativeToolTip": "DigitalPortfolioApp\\ReportForm.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAUwKQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:36:28.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CourseEditForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\CourseEditForm.Designer.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\CourseEditForm.Designer.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\CourseEditForm.Designer.cs",
+              "RelativeToolTip": "DigitalPortfolioApp\\CourseEditForm.Designer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:34:58.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CourseEditForm.cs",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\CourseEditForm.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\CourseEditForm.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\CourseEditForm.cs",
+              "RelativeToolTip": "DigitalPortfolioApp\\CourseEditForm.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAUwJ4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:34:46.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StudentRegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\StudentRegisterForm.cs",
+              "RelativeDocumentMoniker": "DigitalPortfolioApp\\StudentRegisterForm.cs",
+              "ToolTip": "C:\\Users\\fedot\\OneDrive\\Desktop\\DigitalPortfolioApp\\DigitalPortfolioApp\\StudentRegisterForm.cs [Design]",
+              "RelativeToolTip": "DigitalPortfolioApp\\StudentRegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:33:13.397Z"
             }
           ]
         }
