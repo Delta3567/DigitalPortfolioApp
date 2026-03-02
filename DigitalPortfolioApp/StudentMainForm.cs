@@ -22,10 +22,33 @@ namespace DigitalPortfolioApp
 
         private void StudentMainForm_Load(object sender, EventArgs e)
         {
+            if (!CheckConnection()) return;
             LoadAvailableCourses();
             LoadMyApplications();
             LoadMySchedule();
             LoadProfile();
+        }
+
+        private bool CheckConnection()
+        {
+            try
+            {
+                using (SqlConnection conn = new SqlConnection(connectionString))
+                {
+                    conn.Open();
+                    return true;
+                }
+            }
+            catch (SqlException ex)
+            {
+                MessageBox.Show("Ошибка подключения к БД: " + ex.Message, "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return false;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Неизвестная ошибка: " + ex.Message, "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return false;
+            }
         }
 
         private void LoadAvailableCourses()
@@ -35,6 +58,7 @@ namespace DigitalPortfolioApp
                 using (SqlConnection conn = new SqlConnection(connectionString))
                 {
                     conn.Open();
+                    // Оптимизированный запрос: фильтрация на стороне сервера
                     string query = @"
                         SELECT 
                             c.course_id AS 'ID',
@@ -59,9 +83,13 @@ namespace DigitalPortfolioApp
                     dgvAvailableCourses.ReadOnly = true;
                 }
             }
+            catch (SqlException ex)
+            {
+                MessageBox.Show("Ошибка загрузки курсов: " + ex.Message, "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
             catch (Exception ex)
             {
-                MessageBox.Show("Ошибка загрузки курсов: " + ex.Message);
+                MessageBox.Show("Неизвестная ошибка: " + ex.Message, "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
@@ -90,9 +118,13 @@ namespace DigitalPortfolioApp
                     dgvMyApplications.DataSource = dt;
                 }
             }
+            catch (SqlException ex)
+            {
+                MessageBox.Show("Ошибка загрузки заявок: " + ex.Message, "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
             catch (Exception ex)
             {
-                MessageBox.Show("Ошибка загрузки заявок: " + ex.Message);
+                MessageBox.Show("Неизвестная ошибка: " + ex.Message, "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
@@ -122,9 +154,13 @@ namespace DigitalPortfolioApp
                     dgvMySchedule.DataSource = dt;
                 }
             }
+            catch (SqlException ex)
+            {
+                MessageBox.Show("Ошибка загрузки расписания: " + ex.Message, "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
             catch (Exception ex)
             {
-                MessageBox.Show("Ошибка загрузки расписания: " + ex.Message);
+                MessageBox.Show("Неизвестная ошибка: " + ex.Message, "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
@@ -152,9 +188,13 @@ namespace DigitalPortfolioApp
                     }
                 }
             }
+            catch (SqlException ex)
+            {
+                MessageBox.Show("Ошибка загрузки профиля: " + ex.Message, "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
             catch (Exception ex)
             {
-                MessageBox.Show("Ошибка загрузки профиля: " + ex.Message);
+                MessageBox.Show("Неизвестная ошибка: " + ex.Message, "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
@@ -201,9 +241,13 @@ namespace DigitalPortfolioApp
                     LoadMyApplications();
                 }
             }
+            catch (SqlException ex)
+            {
+                MessageBox.Show("Ошибка базы данных при подаче заявки: " + ex.Message, "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
             catch (Exception ex)
             {
-                MessageBox.Show("Ошибка подачи заявки: " + ex.Message);
+                MessageBox.Show("Неизвестная ошибка: " + ex.Message, "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
@@ -229,9 +273,13 @@ namespace DigitalPortfolioApp
                     MessageBox.Show("Профиль обновлен!");
                 }
             }
+            catch (SqlException ex)
+            {
+                MessageBox.Show("Ошибка обновления профиля: " + ex.Message, "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
             catch (Exception ex)
             {
-                MessageBox.Show("Ошибка обновления: " + ex.Message);
+                MessageBox.Show("Неизвестная ошибка: " + ex.Message, "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
