@@ -15,7 +15,7 @@ namespace DigitalPortfolioApp
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            if (string.IsNullOrWhiteSpace(txtLogin.Text) || string.IsNullOrWhiteSpace(txtPassword.Text)) //Исправленный код
+            if (string.IsNullOrWhiteSpace(txtLogin.Text) || string.IsNullOrWhiteSpace(txtPassword.Text))
             {
                 MessageBox.Show("Введите логин и пароль!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return;
@@ -38,11 +38,10 @@ namespace DigitalPortfolioApp
                         {
                             if (reader.Read())
                             {
-                                string role = reader["Role"].ToString();
                                 int id = Convert.ToInt32(reader["Id"]);
                                 string name = reader["Name"].ToString();
 
-                                reader.Close();
+                                reader.Close(); // можно не закрывать явно, но оставим для ясности
                                 this.Hide();
                                 StudentMainForm studentForm = new StudentMainForm(id, name, connectionString);
                                 studentForm.ShowDialog();
@@ -63,7 +62,6 @@ namespace DigitalPortfolioApp
                         {
                             if (reader.Read())
                             {
-                                string role = reader["Role"].ToString();
                                 int id = Convert.ToInt32(reader["Id"]);
                                 string name = reader["Name"].ToString();
 
@@ -101,9 +99,13 @@ namespace DigitalPortfolioApp
                     MessageBox.Show("Неверный логин или пароль!", "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
             }
+            catch (SqlException ex)
+            {
+                MessageBox.Show("Ошибка базы данных: " + ex.Message + "\nПроверьте подключение к серверу.", "Ошибка SQL", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
             catch (Exception ex)
             {
-                MessageBox.Show("Ошибка подключения: " + ex.Message, "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Неизвестная ошибка: " + ex.Message, "Ошибка", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
@@ -113,9 +115,7 @@ namespace DigitalPortfolioApp
             regForm.ShowDialog();
         }
 
-        
-
-        private void label1_Click(object sender, EventArgs e)
+        private void btnExit_Click(object sender, EventArgs e)
         {
             this.Close();
         }
